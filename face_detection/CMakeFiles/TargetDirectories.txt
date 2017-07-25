@@ -1,3 +1,0 @@
-/home/karsh/Documents/opencv_projects/face_detection/CMakeFiles/edit_cache.dir
-/home/karsh/Documents/opencv_projects/face_detection/CMakeFiles/rebuild_cache.dir
-/home/karsh/Documents/opencv_projects/face_detection/CMakeFiles/face_detect.dir
