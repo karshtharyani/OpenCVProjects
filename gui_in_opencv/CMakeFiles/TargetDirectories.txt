@@ -1,0 +1,3 @@
+/home/karsh/Documents/opencv_projects/gui_in_opencv/CMakeFiles/edit_cache.dir
+/home/karsh/Documents/opencv_projects/gui_in_opencv/CMakeFiles/rebuild_cache.dir
+/home/karsh/Documents/opencv_projects/gui_in_opencv/CMakeFiles/trackbar.dir

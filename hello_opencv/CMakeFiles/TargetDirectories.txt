@@ -1,0 +1,3 @@
+/home/karsh/Documents/opencv_projects/hello_opencv/CMakeFiles/edit_cache.dir
+/home/karsh/Documents/opencv_projects/hello_opencv/CMakeFiles/rebuild_cache.dir
+/home/karsh/Documents/opencv_projects/hello_opencv/CMakeFiles/DisplayImage.dir

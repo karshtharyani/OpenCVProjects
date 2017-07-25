@@ -1,0 +1,3 @@
+/home/karsh/Documents/opencv_projects/image_manipulations/CMakeFiles/edit_cache.dir
+/home/karsh/Documents/opencv_projects/image_manipulations/CMakeFiles/rebuild_cache.dir
+/home/karsh/Documents/opencv_projects/image_manipulations/CMakeFiles/image_gray.dir
